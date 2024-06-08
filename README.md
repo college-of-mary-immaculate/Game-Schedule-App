@@ -3,6 +3,17 @@
 it also shows the most popular games of all!
 
 ## References :card_file_box:
+<table>
+  <tr>
+    <td style="vertical-align: middle;">
+      <img src="https://github.com/college-of-mary-immaculate/Game-Schedule-App/assets/143236024/d940f2ff-82d2-4672-92a6-9bc3a567d05a" width="30" height="30" />
+    </td>
+    <td style="vertical-align: middle;">
+      <a href="https://rawg.io/">R A W G</a>
+    </td>
+  </tr>
+</table>
+
 [<img src="https://github.com/college-of-mary-immaculate/Game-Schedule-App/assets/143236024/d940f2ff-82d2-4672-92a6-9bc3a567d05a" width="30" height="30" />](https://rawg.io/) Rawg
 
 
