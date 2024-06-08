@@ -5,7 +5,8 @@ it also shows the most popular games of all!
 ## References :card_file_box:
 
 <img src="https://github.com/Vince9090/First-Repository/assets/143236024/4a64f7f1-ad4c-4337-be1b-eeca2f86d98c" alt = "Rawg Logo" width="20" height="20"> [Rawg](https://rawg.io/)
-<img src="https://github.com/college-of-mary-immaculate/Game-Schedule-App/assets/143236024/8af9bf7f-9fd4-48e5-a43f-f9e13e0d76f9" alt = "Rawg Logo" width="20" height="20"> [Web Scraping in Python](https://youtu.be/bargNl2WeN4?si=XM9B7MSq2PSU-kuj)
+
+<img src="https://github.com/college-of-mary-immaculate/Game-Schedule-App/assets/143236024/2f332621-041d-4fd9-8938-ff32912a47c5" alt = "Rawg Logo" width="20" height="20"> [Web Scraping in Python](https://youtu.be/bargNl2WeN4?si=XM9B7MSq2PSU-kuj)
 ## Contributors <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Clinking%20Beer%20Mugs.png" alt="Clinking Beer Mugs" width="35" height="35" />
 - Castro, Rey Arby
 - De Castro, Vince Carlo
