@@ -3,7 +3,8 @@
 it also shows the most popular games of all!
 
 ## References :card_file_box:
-[R A W G](https://rawg.io/)
+＜img src="![rawg_logo](https://github.com/college-of-mary-immaculate/Game-Schedule-App/assets/143236024/d940f2ff-82d2-4672-92a6-9bc3a567d05a)" width="20" height="20"＞[R A W G](https://rawg.io/)
+![rawg_logo](https://github.com/college-of-mary-immaculate/Game-Schedule-App/assets/143236024/d940f2ff-82d2-4672-92a6-9bc3a567d05a)
 
 [Web Scraping in Python](https://youtu.be/bargNl2WeN4?si=XM9B7MSq2PSU-kuj)
 ## Contributors <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Clinking%20Beer%20Mugs.png" alt="Clinking Beer Mugs" width="35" height="35" />
