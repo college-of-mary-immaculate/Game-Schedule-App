@@ -1,2 +1,2 @@
-# Game-Schedule-App
+# Horizon
 Showcasing the upcoming game releases
