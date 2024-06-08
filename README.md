@@ -4,6 +4,6 @@ it also shows the most popular games of all!
 
 ## References
 
-## Contributors <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Clinking%20Beer%20Mugs.png" alt="Clinking Beer Mugs" width="30" height="30" />
+## <code style="color:green">Contributors</code> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Clinking%20Beer%20Mugs.png" alt="Clinking Beer Mugs" width="30" height="30" />
 - Castro, Rey Arby
 - De Castro, Vince Carlo
